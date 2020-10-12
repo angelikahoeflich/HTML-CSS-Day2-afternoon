@@ -85,3 +85,11 @@ img{
 main{
   display:flex;
 }
+ul{
+  display:flex;
+  justify-content:space-around;
+  padding-top: 30px;
+}
+hr{
+  display:flex;
+}
