@@ -9,6 +9,17 @@ a{
   color:white;
 }
 
+button{
+  border:none;
+  color:#333;
+  padding:5px;
+  border: 1px solid #b7bdc0;
+  width:150px;
+  border-radius: 5px;
+
+  
+}
+
 
 nav{
   width:100vw;
@@ -80,7 +91,8 @@ img{
 .profile{
   height:100vh;
   width: 30vw;
-  padding:60px 30px;
+  padding:90px 30px;
+  text-align: center;
 }
 main{
   display:flex;
