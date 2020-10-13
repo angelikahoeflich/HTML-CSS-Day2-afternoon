@@ -64,10 +64,11 @@ img{
   height: 220px;
   width: 220px;
   border-radius: 50%;
+  padding-bottom: 10px;
 }
 .box{
   width:300px;
-  height: 100px;
+  
   margin-top:10px;
   margin-right: 10px;;
   background-color: #fff;
